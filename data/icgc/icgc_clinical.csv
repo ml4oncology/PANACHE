@@ -1,0 +1,218 @@
+file,patient_id,other_id,type,duplicate,icgc_id,os,vital,sex,age_enrol,type,stage,grade,cellularity
+1980_8060158_FFPE_cancer.svs,1980,8060158,FFPE,0,ICGC_0354,168,1,male,49,Pancreatic Ductal Adenocarcinoma,TXNXM1,3,
+2024_8011488_FS_cancer.svs,2024,8011488,FS,0,ICGC_0022,36,1,female,87,Pancreatic Ductal Adenocarcinoma,T3N0MX,3,
+2024_8011491_FS_cancer.svs,2024,8011491,FS,0,ICGC_0022,36,1,female,87,Pancreatic Ductal Adenocarcinoma,T3N0MX,3,
+2024_8012055_FFPE_cancer.svs,2024,8012055,FFPE,0,ICGC_0022,36,1,female,87,Pancreatic Ductal Adenocarcinoma,T3N0MX,3,
+2135_8012596_FS_cancer.svs,2135,8012596,FS,0,ICGC_0316,82,1,female,60,Pancreatic Ductal Adenocarcinoma,TXNXMX,3,
+2144_8012801_FS_cancer.svs,2144,8012801,FS,0,ICGC_0499,238,1,female,86,Mucinous Cystadenocarcinoma,T3N1M1,3,23
+2144_8012805_FS_cancer.svs,2144,8012805,FS,0,ICGC_0499,238,1,female,86,Mucinous Cystadenocarcinoma,T3N1M1,3,23
+2144_8012834_FS_cancer.svs,2144,8012834,FS,0,ICGC_0499,238,1,female,86,Mucinous Cystadenocarcinoma,T3N1M1,3,23
+2144_8012835_FS_cancer.svs,2144,8012835,FS,0,ICGC_0499,238,1,female,86,Mucinous Cystadenocarcinoma,T3N1M1,3,23
+2144_8046501_FFPE_cancer.svs,2144,8046501,FFPE,0,ICGC_0499,238,1,female,86,Mucinous Cystadenocarcinoma,T3N1M1,3,23
+2153_8013507_FS_cancer.svs,2153,8013507,FS,0,ICGC_0391,480,1,male,64,Acinar Cell Carcinoma,T3N1bMX,3,
+2202_8015832_FS_cancer.svs,2202,8015832,FS,0,ICGC_0098,164,1,female,76,Pancreatic Ductal Adenocarcinoma,,,
+2202_8015833_FS_cancer.svs,2202,8015833,FS,0,ICGC_0098,164,1,female,76,Pancreatic Ductal Adenocarcinoma,,,
+2202_8047531_FFPE_cancer.svs,2202,8047531,FFPE,0,ICGC_0098,164,1,female,76,Pancreatic Ductal Adenocarcinoma,,,
+2202_8070597_FFPE_cancer.svs,2202,8070597,FFPE,0,ICGC_0098,164,1,female,76,Pancreatic Ductal Adenocarcinoma,,,
+2269_8070384_FFPE_cancer.svs,2269,8070384,FFPE,0,ICGC_0113,44,1,male,50,,,,
+2315_8062589_FFPE_cancer.svs,2315,8062589,FFPE,0,ICGC_0122,375,0,female,67,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,15
+2322_8031968_FS_cancer.svs,2322,8031968,FS,0,ICGC_0126,,,,,,,,
+2322_8031969_FS_cancre.svs,2322,8031969,FS,0,ICGC_0126,,,,,,,,
+2322_8064414_FFPE_cancer-001.svs,2322,8064414,FFPE,0,ICGC_0126,,,,,,,,
+2343_8032978_FS_cancer.svs,2343,8032978,FS,0,ICGC_0130,399,1,male,67,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,14
+2343_8053538_FFPE_cancer.svs,2343,8053538,FFPE,0,ICGC_0130,399,1,male,67,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,14
+2356_8033454_FS_cancer.svs,2356,8033454,FS,0,ICGC_0132,615,1,male,65,Pancreatic Ductal Adenocarcinoma,T2N1bM0,2,36
+2356_8050166_FFPE_cancer.svs,2356,8050166,FFPE,0,ICGC_0132,615,1,male,65,Pancreatic Ductal Adenocarcinoma,T2N1bM0,2,36
+2519_8033685_FS_cancer.svs,2519,8033685,FS,0,ICGC_0133,1051,0,female,59,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,20
+2519_8033686_FS_cancer.svs,2519,8033686,FS,0,ICGC_0133,1051,0,female,59,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,20
+2519_8050381_FFPE_cancer.svs,2519,8050381,FFPE,0,ICGC_0133,1051,0,female,59,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,20
+2523_8033840_FS_cancer.svs,2523,8033840,FS,0,ICGC_0134,98,1,male,81,Adenosquamous carcinoma,T3N1MX,3,
+2523_8033841_FS_cancer.svs,2523,8033841,FS,0,ICGC_0134,98,1,male,81,Adenosquamous carcinoma,T3N1MX,3,
+2525_8033833_FS_cancer.svs,2525,8033833,FS,0,ICGC_0135,909,0,female,62,Pancreatic Ductal Adenocarcinoma,T3N0MX,2,40
+2527_8033867_FS_cancer.svs,2527,8033867,FS,0,ICGC_0136,1001,0,male,71,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,
+2527_8050505_FFPE_cancer.svs,2527,8050505,FFPE,0,ICGC_0136,1001,0,male,71,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,
+2541_8033890_FS_cancer.svs,2541,8033890,FS,0,ICGC_0137,179,1,male,61,Undifferentiated (anaplastic) carcinoma,TXNXM1,4,16
+2590_8034204_FS_cancer.svs,2590,8034204,FS,0,ICGC_0138,1058,0,male,77,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,45
+2590_8034205_FS_cancer.svs,2590,8034205,FS,0,ICGC_0138,1058,0,male,77,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,45
+2795_8050169_FFPE_cancer.svs,2795,8050169,FFPE,0,ICGC_0179,905,0,female,69,Intraductal Papillary Mucinous Neoplasm with invasion,T3N0MX,1,17
+2795-8036754_FS_cancer_q_duplicate.svs,2795,8036754,FS,1,ICGC_0179,905,0,female,69,Intraductal Papillary Mucinous Neoplasm with invasion,T3N0MX,1,17
+2795-8036754_FS_cancer.svs,2795,8036754,FS,0,ICGC_0179,905,0,female,69,Intraductal Papillary Mucinous Neoplasm with invasion,T3N0MX,1,17
+2798_8068640_FFPE_cancer.svs,2798,8068640,FFPE,0,ICGC_0514,691,0,male,65,Pancreatic Ductal Adenocarcinoma,TXNXM1,,
+2798_8070432_FFPE_cancer.svs,2798,8070432,FFPE,0,ICGC_0514,691,0,male,65,Pancreatic Ductal Adenocarcinoma,TXNXM1,,
+2910_8050127_FFPE_cancer.svs,2910,8050127,FFPE,0,ICGC_0198,417,0,female,74,Pancreatic Ductal Adenocarcinoma,T1N0MX,2,
+2962_8048259_FS_cancer.svs,2962,8048259,FS,0,ICGC_0217,743,0,female,70,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,62
+2962_8048260_FS_cancer.svs,2962,8048260,FS,0,ICGC_0217,743,0,female,70,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,62
+2962_8048349_FS_cancer.svs,2962,8048349,FS,0,ICGC_0217,743,0,female,70,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,62
+2962_8062726_FFPE_cancer.svs,2962,8062726,FFPE,0,ICGC_0217,743,0,female,70,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,62
+2973_8048617_FS_cancer.svs,2973,8048617,FS,0,ICGC_0230,257,1,male,37,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,71
+2973_8048618_FS_cancer.svs,2973,8048618,FS,0,ICGC_0230,257,1,male,37,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,71
+2984_8048844_FS_cancer.svs,2984,8048844,FS,0,ICGC_0224,666,0,female,68,Intraductal Papillary Mucinous Neoplasm with invasion,T2N0MX,2,
+2985_8049016_FS_cancer.svs,2985,8049016,FS,0,ICGC_0234,715,0,female,63,Pancreatic Ductal Adenocarcinoma,T3N0MX,1,20
+2996_8049764_FS_cancer.svs,2996,8049764,FS,0,ICGC_0396,474,0,male,53,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,
+2996_8061248_FFPE_cancer.svs,2996,8061248,FFPE,0,ICGC_0396,474,0,male,53,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,
+3000_8050499FS_cancer.svs,3000,8050499,FS,0,ICGC_0298,582,0,male,63,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,13
+3000_8050500_FS_cancer.svs,3000,8050500,FS,0,ICGC_0298,582,0,male,63,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,13
+3000_8064399_FFPE_cancer.svs,3000,8064399,FFPE,0,ICGC_0298,582,0,male,63,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,13
+3011_8050584_FS_cancer.svs,3011,8050584,FS,0,ICGC_0236,427,0,male,76,Pancreatic Ductal Adenocarcinoma,T3N0MX,2,
+3016_8050565_FS_cancer.svs,3016,8050565,FS,0,ICGC_0237,183,1,female,80,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,13
+3016_8060876_FS_cancer.svs,3016,8060876,FS,0,ICGC_0237,183,1,female,80,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,13
+3019_8050875_FS_cancer.svs,3019,8050875,FS,0,ICGC_0238,284,1,male,50,Mucinous Non-cystic carcinoma,T2N1MX,2,24
+3019_8050876_FS_cancer.svs,3019,8050876,FS,0,ICGC_0238,284,1,male,50,Mucinous Non-cystic carcinoma,T2N1MX,2,24
+3019_8062735_FFPE_cancer.svs,3019,8062735,FFPE,0,ICGC_0238,284,1,male,50,Mucinous Non-cystic carcinoma,T2N1MX,2,24
+3024_8060997_FFPE_cancer.svs,3024,8060997,FFPE,0,ICGC_0299,589,0,male,66,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,13
+3033_8050859_FS_cancer.svs,3033,8050859,FS,0,ICGC_0305,493,0,male,73,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,32
+3033_8071572_FFPE_cancer.svs,3033,8071572,FFPE,0,ICGC_0305,493,0,male,73,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,32
+3036_8051141_FS_cancer.svs,3036,8051141,FS,0,ICGC_0337,420,1,male,45,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,
+3036_8060882_FFPE_cancer.svs,3036,8060882,FFPE,0,ICGC_0337,420,1,male,45,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,
+3045_8051319_FS_cancer.svs,3045,8051319,FS,0,ICGC_0225,260,0,male,73,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,44
+3045_8061101_FFPE_cancer.svs,3045,8061101,FFPE,0,ICGC_0225,260,0,male,73,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,44
+3050_8051408_FS_cancer.svs,3050,8051408,FS,0,ICGC_0219,634,0,female,47,Undifferentiated carcinoma with osteoclast like giant cells,T1N0MX,4,15
+3050_8051409_FS_cancer.svs,3050,8051409,FS,0,ICGC_0219,634,0,female,47,Undifferentiated carcinoma with osteoclast like giant cells,T1N0MX,4,15
+3058_8052008_cancer.svs,3058,8052008,,0,ICGC_0317,191,1,male,90,Pancreatic Ductal Adenocarcinoma,T3N1bMX,2,16
+3062_8052020_FS_cancer.svs,3062,8052020,FS,0,ICGC_0488,1328,0,male,78,Pancreatic Ductal Adenocarcinoma,T2N0MX,2,16
+3063_8052023_cancer.svs,3063,8052023,,0,,,,,,,,,
+3068_8052038_cancer.svs,3068,8052038,,0,ICGC_0319,578,1,male,64,Adenosquamous carcinoma,T3N1bMX,3,
+3069_8052041_FS_cancer.svs,3069,8052041,FS,0,ICGC_0320,272,1,female,66,Pancreatic Ductal Adenocarcinoma,T3N0M1,3,81
+3077_8052085_cancer.svs,3077,8052085,,0,ICGC_0403,385,1,male,76,Pancreatic Ductal Adenocarcinoma,T2N1aMX,2,
+3080_8052100_FS_cancer.svs,3080,8052100,FS,0,ICGC_0232,140,1,male,66,Pancreatic Ductal Adenocarcinoma,,2,41
+3081_8052103_FS_cancer.svs,3081,8052103,FS,0,ICGC_0339,579,1,male,75,Pancreatic Ductal Adenocarcinoma,T2N1bMX,2,29
+3084_8052112_FS_cancer.svs,3084,8052112,FS,0,ICGC_0343,994,1,female,61,Intraductal Papillary Mucinous Neoplasm with invasion,T2N1bMX,3,
+3086_8052118_FS_cancer.svs,3086,8052118,FS,0,ICGC_0344,944,1,male,64,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3087_8052121_FS_cancer.svs,3087,8052121,FS,0,ICGC_0345,77,1,female,83,Pancreatic Ductal Adenocarcinoma,T3N0MX,3,
+3088_8052124_FS_cancer.svs,3088,8052124,FS,0,ICGC_0346,787,1,male,64,Pancreatic Ductal Adenocarcinoma,T2N1aMX,3,
+3090_8052130_FS_cancer.svs,3090,8052130,FS,0,ICGC_0347,238,0,male,60,Pancreatic Ductal Adenocarcinoma,T3N0MX,2,16
+3091_8052133_FS_cancer.svs,3091,8052133,FS,0,ICGC_0348,1591,0,female,56,Pancreatic Ductal Adenocarcinoma,T1N1aMX,2,
+3094_8052142_FS_cancer.svs,3094,8052142,FS,0,ICGC_0350,155,1,male,61,Adenosquamous carcinoma,T2N0MX,3,32
+3096_8051541_FS_cancer.svs,3096,8051541,FS,0,ICGC_0308,252,0,male,60,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,16
+3096_8064409_FFPE_cancer.svs,3096,8064409,FFPE,0,ICGC_0308,252,0,male,60,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,16
+3115_8051601_FS_cancer.svs,3115,8051601,FS,0,ICGC_0226,523,0,male,58,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,21
+3115_8062675_FFPE_cancer.svs,3115,8062675,FFPE,0,ICGC_0226,523,0,male,58,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,21
+3122_8051689_FS_cancer.svs,3122,8051689,FS,0,ICGC_0310,456,1,male,64,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3122_8051690_FS_cancer.svs,3122,8051690,FS,0,ICGC_0310,456,1,male,64,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3122_8062719_FFPE_cancer.svs,3122,8062719,FFPE,0,ICGC_0310,456,1,male,64,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3153_8052321_FS_cancer_q_duplicate.svs,3153,8052321,FS,1,ICGC_0310,456,1,male,64,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3153_8052321_FS_cancer.svs,3153,8052321,FS,0,ICGC_0310,456,1,male,64,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3153_8052322_FS_cancer_q_duplicate.svs,3153,8052322,FS,1,ICGC_0310,456,1,male,64,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3153_8052322_FS_cancer.svs,3153,8052322,FS,0,ICGC_0310,456,1,male,64,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3154_8052330_FS_cancer_q_duplicate.svs,3154,8052330,FS,1,ICGC_0311,596,0,male,78,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,17
+3154_8052330_FS_cancer.svs,3154,8052330,FS,0,ICGC_0311,596,0,male,78,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,17
+3154_8062711_FFPE_cancer_q_duplicate.svs,3154,8062711,FFPE,1,ICGC_0311,596,0,male,78,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,17
+3154_8062711_FFPE_cancer.svs,3154,8062711,FFPE,0,ICGC_0311,596,0,male,78,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,17
+3185_8052549_FS_cancer.svs,3185,8052549,FS,0,ICGC_0323,363,1,female,45,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,
+3185_8052550_FS_cancer.svs,3185,8052550,FS,0,ICGC_0323,363,1,female,45,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,
+3185_8061254_FFPE_cancer.svs,3185,8061254,FFPE,0,ICGC_0323,363,1,female,45,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,
+3190_8052649_FS_cancer.svs,3190,8052649,FS,0,ICGC_0324,506,1,male,71,Pancreatic Ductal Adenocarcinoma,T2N1MX,2,37
+3190_8071569_FFPE_cancer.svs,3190,8071569,FFPE,0,ICGC_0324,506,1,male,71,Pancreatic Ductal Adenocarcinoma,T2N1MX,2,37
+3190_8071570_FFPE_cancer.svs,3190,8071570,FFPE,0,ICGC_0324,506,1,male,71,Pancreatic Ductal Adenocarcinoma,T2N1MX,2,37
+3200_8052836_FS_cancer.svs,3200,8052836,FS,0,ICGC_0356,501,0,male,61,Pancreatic Ductal Adenocarcinoma,T3N0MX,3,23
+3200_8052837_FS_cancer.svs,3200,8052837,FS,0,ICGC_0356,501,0,male,61,Pancreatic Ductal Adenocarcinoma,T3N0MX,3,23
+3211_8052916_cancer.svs,3211,8052916,,0,ICGC_0227,287,1,female,49,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,63
+3211_8052917_FS_cancer.svs,3211,8052917,FS,0,ICGC_0227,287,1,female,49,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,63
+3215_8052980_FS_cancer.svs,3215,8052980,FS,0,ICGC_0357,143,1,female,60,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,18
+3215_8071566_FFPE_cancer.svs,3215,8071566,FFPE,0,ICGC_0357,143,1,female,60,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,18
+3222_8053047__FS_cancer.svs,3222,8053047,FS,0,ICGC_0325,178,0,female,67,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,33
+3222_8070631_FFPE_cancer.svs,3222,8070631,FFPE,0,ICGC_0325,178,0,female,67,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,33
+3227_8053076_cancer.svs,3227,8053076,,0,ICGC_0490,91,1,male,81,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,
+3227_8070542_cancer.svs,3227,8070542,,0,ICGC_0490,91,1,male,81,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,
+3255_8053626_FS_cancer.svs,3255,8053626,FS,0,ICGC_0404,19,1,female,57,Intraductal Papillary Mucinous Neoplasm with invasion,T3N1MX,2,
+3255_8053627_FS_cancer.svs,3255,8053627,FS,0,ICGC_0404,19,1,female,57,Intraductal Papillary Mucinous Neoplasm with invasion,T3N1MX,2,
+3281_8057175_FS_cancer.svs,3281,8057175,FS,0,ICGC_0313,508,0,female,77,Adenosquamous carcinoma,T2N1M1,3,
+3291_8057775_cancer.svs,3291,8057775,,0,ICGC_0351,397,0,female,87,Mixed ductal endocrine carcinoma,T3N0M0,3,26
+3291_8060879_cancer.svs,3291,8060879,,0,ICGC_0351,397,0,female,87,Mixed ductal endocrine carcinoma,T3N0M0,3,26
+3294_8058063_FFPE_cancer.svs,3294,8058063,FFPE,0,ICGC_0358,441,0,male,66,Pancreatic Ductal Adenocarcinoma,TXNXM1,2,17
+3299_8057906_cancer.svs,3299,8057906,,0,ICGC_0352,485,0,female,76,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,
+3299_8057907_cancer.svs,3299,8057907,,0,ICGC_0352,485,0,female,76,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,
+3306_8057964_FS-cancer.svs,3306,8057964,FS,0,ICGC_0406,413,0,female,46,Pancreatic Ductal Adenocarcinoma,T3N0MX,2,
+3306_8057967_FS_cancer.svs,3306,8057967,FS,0,ICGC_0406,413,0,female,46,Pancreatic Ductal Adenocarcinoma,T3N0MX,2,
+3307_8070382_FFPE_cancer.svs,3307,8070382,FFPE,0,ICGC_0407,378,0,female,68,Pancreatic Ductal Adenocarcinoma,T3N1M0,2,17
+3308_8057982_FS_cancer.svs,3308,8057982,FS,0,ICGC_0408,419,0,female,62,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3317_8058455_cancer.svs,3317,8058455,,0,ICGC_0359,398,0,female,76,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3317_8058456_cancer.svs,3317,8058456,,0,ICGC_0359,398,0,female,76,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3348_8058893_cancer.svs,3348,8058893,,0,ICGC_0423,369,1,female,78,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,41
+3348_8071575_cancer.svs,3348,8071575,,0,ICGC_0423,369,1,female,78,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,41
+3351_8058979_FS_cancer.svs,3351,8058979,FS,0,ICGC_0409,279,1,male,75,Pancreatic Ductal Adenocarcinoma,T3N0MX,2,
+3351_8065323_FS_cancer.svs,3351,8065323,FS,0,ICGC_0409,279,1,male,75,Pancreatic Ductal Adenocarcinoma,T3N0MX,2,
+3351_8065324_FS_cancer.svs,3351,8065324,FS,0,ICGC_0409,279,1,male,75,Pancreatic Ductal Adenocarcinoma,T3N0MX,2,
+3351_8070470_FFPE_cancer.svs,3351,8070470,FFPE,0,ICGC_0409,279,1,male,75,Pancreatic Ductal Adenocarcinoma,T3N0MX,2,
+3360_8070341_FFPE_cancer.svs,3360,8070341,FFPE,0,ICGC_0360,447,0,male,68,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,31
+3361_8060027_FS_cancer.svs,3361,8060027,FS,0,ICGC_0410,10,1,female,78,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,15
+3361_8070608_cancer.svs,3361,8070608,,0,ICGC_0410,10,1,female,78,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,15
+3361_8070610_cancer.svs,3361,8070610,,0,ICGC_0410,10,1,female,78,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,15
+3371_8060545_FS_cancer.svs,3371,8060545,FS,0,ICGC_0411,377,0,male,67,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,15
+3434_8061299_FS_cancer.svs,3434,8061299,FS,0,,,,,,,,,
+3435_8061309_FS_cancer.svs,3435,8061309,FS,0,ICGC_0362,363,0,female,59,Pancreatic Ductal Adenocarcinoma,T3N1M1,2,21
+3435_8061310_FS_cancer.svs,3435,8061310,FS,0,ICGC_0362,363,0,female,59,Pancreatic Ductal Adenocarcinoma,T3N1M1,2,21
+3435_8070335_FFPE_cancer.svs,3435,8070335,FFPE,0,ICGC_0362,363,0,female,59,Pancreatic Ductal Adenocarcinoma,T3N1M1,2,21
+3474_8062335_FS_cancer.svs,3474,8062335,FS,0,ICGC_0412,392,0,female,77,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,48
+3474_8070430_FFPE_cancer.svs,3474,8070430,FFPE,0,ICGC_0412,392,0,female,77,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,48
+3482_8062496_FS_cancer.svs,3482,8062496,FS,0,ICGC_0363,326,0,female,65,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3482_8062497_FS_cancer.svs,3482,8062497,FS,0,ICGC_0363,326,0,female,65,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3482_8070372_FFPE_cancer.svs,3482,8070372,FFPE,0,ICGC_0363,326,0,female,65,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3493_8064556_FS_cancer.svs,3493,8064556,FS,0,ICGC_0365,337,0,male,50,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,55
+3507_8062811_FS_cancer.svs,3507,8062811,FS,0,ICGC_0364,351,0,female,76,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,53
+3507_8062812_FS_cancer.svs,3507,8062812,FS,0,ICGC_0364,351,0,female,76,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,53
+3507_8070349_FFPE_cancer.svs,3507,8070349,FFPE,0,ICGC_0364,351,0,female,76,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,53
+3508_8062819_FS_cancer.svs,3508,8062819,FS,0,ICGC_0413,32,1,male,78,,,,
+3510_8063112_FS_cancer.svs,3510,8063112,FS,0,ICGC_0414,349,0,female,86,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,16
+3510_8063113_FS_cancer.svs,3510,8063113,FS,0,ICGC_0414,349,0,female,86,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,16
+3513_8064160_FS_cancer.svs,3513,8064160,FS,0,ICGC_0415,188,0,female,55,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,48
+3513_8070473_FFPE_cancer.svs,3513,8070473,FFPE,0,ICGC_0415,188,0,female,55,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,48
+3522_8064567_FS_cancer.svs,3522,8064567,FS,0,ICGC_0416,350,0,female,83,Intraductal Papillary Mucinous Neoplasm with invasion,T3N1MX,3,30
+3522_8070354_FFPE_cancer.svs,3522,8070354,FFPE,0,ICGC_0416,350,0,female,83,Intraductal Papillary Mucinous Neoplasm with invasion,T3N1MX,3,30
+3535_8065103_FS_cancer.svs,3535,8065103,FS,0,ICGC_0417,270,0,male,65,Pancreatic Ductal Adenocarcinoma,T3N0MX,2,
+3537_8065273_FS_cancer.svs,3537,8065273,FS,0,ICGC_0418,309,0,female,57,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3537_8070360_FFPE_cancer.svs,3537,8070360,FFPE,0,ICGC_0418,309,0,female,57,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3541_8065441_FS_cancer.svs,3541,8065441,FS,0,ICGC_0419,232,0,female,67,Intraductal Papillary Mucinous Neoplasm with invasion,T3N1MX,2,50
+3550_8065478_FS_cancer.svs,3550,8065478,FS,0,ICGC_0420,230,1,male,74,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,66
+3605_8066003_FS_cancer.svs,3605,8066003,FS,0,,,,,,,,,
+3605_8070329_FFPE_cancer.svs,3605,8070329,FFPE,0,,,,,,,,,
+3643_8066131_FS_cancer.svs,3643,8066131,FS,0,ICGC_0421,272,0,male,70,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,51
+3643_8070375_FFPE_cancer.svs,3643,8070375,FFPE,0,ICGC_0421,272,0,male,70,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,51
+3644_8066325_FS_cancer.svs,3644,8066325,FS,0,ICGC_0422,205,0,female,56,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,32
+3644_8070366_FFPE_cancer.svs,3644,8070366,FFPE,0,ICGC_0422,205,0,female,56,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,32
+3657_8064567_FS_cancer_.svs,3657,8064567,FS,0,,,,,,,,,
+3657_8066599_FS_cancer.svs,3657,8066599,FS,0,,,,,,,,,
+3660_8066654_FS_cancer.svs,3660,8066654,FS,0,ICGC_0535,222,0,female,40,Pancreatic Ductal Adenocarcinoma,T3N1M0,3,
+3664_8066672_FS_cancer.svs,3664,8066672,FS,0,,,,,,,,,
+3664_8070403_FFPE_cancer.svs,3664,8070403,FFPE,0,,,,,,,,,
+3667_8066735_FS_cancer.svs,3667,8066735,FS,0,ICGC_0536,149,0,male,58,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,43
+3667_8070544_FFPE_cancer.svs,3667,8070544,FFPE,0,ICGC_0536,149,0,male,58,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,43
+3676_8067252_FS_cancer.svs,3676,8067252,FS,0,ICGC_0537,196,0,male,75,Pancreatic Ductal Adenocarcinoma,T3N0MX,3,18
+3679_8067263_FS_cancer.svs,3679,8067263,FS,0,ICGC_0538,197,0,male,67,Pancreatic Ductal Adenocarcinoma,T3N0MX,2,15
+3679_8070439_FFPE_cancer.svs,3679,8070439,FFPE,0,ICGC_0538,197,0,male,67,Pancreatic Ductal Adenocarcinoma,T3N0MX,2,15
+3692_8067383_FS_cancer.svs,3692,8067383,FS,0,,,,,,,,,
+3692_8070969_FFPE_cancer.svs,3692,8070969,FFPE,0,,,,,,,,,
+3698_8067532_FS_cancer.svs,3698,8067532,FS,0,ICGC_0540,148,0,male,58,Undifferentiated carcinoma with osteoclast like giant cells,T2N0MX,4,23
+3698_8070409_FFPE_cancer.svs,3698,8070409,FFPE,0,ICGC_0540,148,0,male,58,Undifferentiated carcinoma with osteoclast like giant cells,T2N0MX,4,23
+3746_8068428_FS_cancer.svs,3746,8068428,FS,0,,,,,,,,,
+3748_8068308_FS_cancer.svs,3748,8068308,FS,0,ICGC_0541,0,0,female,75,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,18
+3749_8068313_FS_cancer.svs,3749,8068313,FS,0,,,,,,,,,
+3753_8068322_FS_cancer.svs,3753,8068322,FS,0,ICGC_0504,414,1,male,68,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,56
+3756_8068325_FS_cancer.svs,3756,8068325,FS,0,ICGC_0505,925,1,male,68,Pancreatic Ductal Adenocarcinoma,T3N1MX,1,16
+3757_8068331_FS_cancer.svs,3757,8068331,FS,0,ICGC_0517,123,1,male,61,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,43
+3758_8068334_FS_cancer.svs,3758,8068334,FS,0,,,,,,,,,
+3760_8068340_FS_cancer.svs,3760,8068340,FS,0,ICGC_0506,2428,0,,,Intraductal Papillary Mucinous Neoplasm with invasion,T2N0MX,3,14
+3767_8068361_FS_cancer.svs,3767,8068361,FS,0,ICGC_0519,1057,1,female,61,Pancreatic Ductal Adenocarcinoma,T2N1MX,2,15
+3768_8068364_FS_cancer.svs,3768,8068364,FS,0,,,,,,,,,
+3769_8068367_FS_cancer.svs,3769,8068367,FS,0,ICGC_0520,498,1,male,56,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,17
+3770_8068370_FS_cancer.svs,3770,8068370,FS,0,ICGC_0521,429,1,female,51,Pancreatic Ductal Adenocarcinoma,T4N1M1,2,
+3772_8068376_FS_cancer.svs,3772,8068376,FS,0,ICGC_0542,179,0,male,55,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,67
+3775_8068422_FS_cancer.svs,3775,8068422,FS,0,ICGC_0523,47,1,male,76,Pancreatic Ductal Adenocarcinoma,T3N1bMX,2,34
+3778_8068434_FS_cancer.svs,3778,8068434,FS,0,ICGC_0508,823,1,female,61,Pancreatic Ductal Adenocarcinoma,T3N1bMX,2,17
+3782_8068449_FS_cancer.svs,3782,8068449,FS,0,ICGC_0525,1758,0,male,58,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3785_8068458_FS_cancer.svs,3785,8068458,FS,0,ICGC_0527,182,1,male,62,Pancreatic Ductal Adenocarcinoma,T3N1aMX,2,30
+3787_8068464_FS_cancer.svs,3787,8068464,FS,0,ICGC_0510,1107,1,male,66,Pancreatic Ductal Adenocarcinoma,T3N1aMX,2,53
+3788_8068440_FS_cancer.svs,3788,8068440,FS,0,ICGC_0511,514,1,male,70,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,18
+3791_8068473_FS_cancer.svs,3791,8068473,FS,0,ICGC_0512,251,1,female,61,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,48
+3792_8068476_FS_cancer.svs,3792,8068476,FS,0,ICGC_0513,1095,1,male,52,Intraductal Papillary Mucinous Neoplasm with invasion,T3N1MX,2,49
+3794_8068482_FS_cancer.svs,3794,8068482,FS,0,ICGC_0528,2703,0,female,59,Pancreatic Ductal Adenocarcinoma,T3N0MX,2,
+3796_8068488_FS_cancer.svs,3796,8068488,FS,0,ICGC_0529,,,,,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,71
+3798_8068494_FS_cancer.svs,3798,8068494,FS,0,ICGC_0530,464,1,male,69,Pancreatic Ductal Adenocarcinoma,T3N1MX,2,
+3804_8068914_FS_cancer.svs,3804,8068914,FS,0,ICGC_0543,156,1,male,67,Adenosquamous carcinoma,T3N0M0,,64
+3806_8069301_FS_cancer.svs,3806,8069301,FS,0,,,,,,,,,
+3817_8069430_FS_cancer.svs,3817,8069430,FS,0,,,,,,,,,
+3817_8071580_FFPE_cancer.svs,3817,8071580,FFPE,0,,,,,,,,,
+3817_8071581_FFPE_cancer.svs,3817,8071581,FFPE,0,,,,,,,,,
+3818_8069468_FS_cancer.svs,3818,8069468,FS,0,ICGC_0544,89,0,female,72,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,
+3818_8070451_FFPE_cancer.svs,3818,8070451,FFPE,0,ICGC_0544,89,0,female,72,Pancreatic Ductal Adenocarcinoma,T3N1MX,3,
+3837_8069748_FS_cancer.svs,3837,8069748,FS,0,,,,,,,,,
