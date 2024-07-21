@@ -10,7 +10,7 @@ PANACHE was developed to automatically assess cancer risk from digitized whole s
 
 To run the training or inference code, the pretrained HIPT models should be downloaded from https://github.com/mahmoodlab/HIPT/tree/master/HIPT_4K/Checkpoints and stored within the `./src/model/HIPT/pretrain_checkpoints` directory as `vit4k_xs_dino.pth` and `vit256_small_dino.pth`. 
 
-**Note: A single GPU is required to run training and inference code.**
+**Note: A minimum of 1 GPU is required to run training and inference code.**
 
 ## Environment Setup
 
