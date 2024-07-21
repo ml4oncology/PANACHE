@@ -45,4 +45,4 @@ The training code in this repository is designed to operate on public data from 
 
 After the datasets are downloaded, the entire training pipeline including WSI preprocessing and hyperparameter search can be run using the `run_train_pipeline.sh` script.
 
-_Note_ based on the structure of your dataset, you may need to modify `./features/extract_features.py` to appropriately generate the dictionary files associated with each WSI.
+**Note: based on the structure of your dataset, you may need to modify `./features/extract_features.py` to appropriately generate the dictionary files associated with each WSI.**
